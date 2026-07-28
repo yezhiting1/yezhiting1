@@ -18,7 +18,7 @@
 我是 **一叶知秋**，一名热爱编程的开发者。
 
 - 🔭 **正在开发：** 个人博客 网页插件 电脑工具集
-- 🌐 **个人网站：** [一叶知秋的小窝](https://lygalaxy.cn)
+- 🌐 **个人网站：** [一叶知秋的小窝](https://yztcf.de5.net/)
 - 📫 **联系我：** 点击就可以转跳哦 φ(*￣0￣)
   <p>
     <a href="mailto:1632866674@qq.com"><img src="https://img.shields.io/badge/Email-1632866674%40qq.com-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
