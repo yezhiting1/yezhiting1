@@ -19,13 +19,12 @@
 
 - 🔭 **正在开发：** 个人博客 网页插件 电脑工具集
 - 🌐 **个人网站：** [一叶知秋的小窝](https://yztcf.de5.net/)
-- 📫 **联系我：** 点击就可以转跳哦 φ(*￣0￣)
+
   <p>
     <a href="mailto:1632866674@qq.com"><img src="https://img.shields.io/badge/Email-1632866674%40qq.com-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="images/WX.jpg"><img src="https://img.shields.io/badge/WeChat-zt_13437505514-00C853?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/></a>
     <a href="images/QQ.jpg"><img src="https://img.shields.io/badge/QQ-1632866674-7289DA?style=for-the-badge&logo=qq&logoColor=white" alt="QQ"/></a>
   </p>
-- 🎐 项目，长于编写代码（x
 > [!TIP]
 > 🔭 如果你有好的点子，请告诉我呀，让我们一起保持好奇心 ヽ(・∀・)ﾉ
 
