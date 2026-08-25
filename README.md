@@ -1,6 +1,7 @@
 
 <div align="center">
-<img width="2044" height="354" alt="IMG_2334 " src="https://github.com/user-attachments/assets/cb1d0942-b915-4d61-8d82-9ea3442ccc8a" />
+<img width="2444" height="454" alt="IMG_2334 " src="https://github.com/user-attachments/assets/2fd83aed-87be-4860-99d5-39b28ca0e0dd" />
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=55&section=header&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=学如逆水行舟，不进则退&descAlignY=55" />
 
   # 👋 Hello，here is ZT小站
