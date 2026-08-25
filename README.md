@@ -1,6 +1,7 @@
 
 <div align="center">
-<img width="2444" height="454" alt="IMG_2334 " src="https://github.com/user-attachments/assets/2fd83aed-87be-4860-99d5-39b28ca0e0dd" />
+<img width="2444" height="454" alt="IMG_234 " src="https://github.com/user-attachments/assets/326fa621-b077-492f-bb11-2a743ecb48a3" />
+
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=55&section=header&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=学如逆水行舟，不进则退&descAlignY=55" />
 
