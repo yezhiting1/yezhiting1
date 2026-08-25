@@ -1,9 +1,9 @@
 
 <div align="center">
-<img width="2444" height="454" alt="IMG_2334 " src="https://github.com/user-attachments/assets/cb1d0942-b915-4d61-8d82-9ea3442ccc8a" />
+<img width="2044" height="454" alt="IMG_2334 " src="https://github.com/user-attachments/assets/cb1d0942-b915-4d61-8d82-9ea3442ccc8a" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=250&section=header&text=Galaxy&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=星尘为墨，落雨成章&descAlignY=55" />
 
-  # 👋 Hello，here is Galaxy
+  # 👋 Hello，here is ZT小站
 
   <img src="https://komarev.com/ghpvc/?username=sirvffg&style=for-the-badge&color=blueviolet" alt="访问计数器" />
   <img src="https://img.shields.io/github/followers/sirvffg?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
