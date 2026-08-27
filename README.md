@@ -11,8 +11,6 @@
     <a href="images/WX.jpg"><img src="https://img.shields.io/badge/WeChat-zt_13437505514-00C853?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/></a>
     <a href="images/QQ.jpg"><img src="https://img.shields.io/badge/QQ-1632866674-7289DA?style=for-the-badge&logo=qq&logoColor=white" alt="QQ"/></a>
   </p>
-> [!TIP]
-> 🔭 如果你有好的点子，请告诉我呀，让我们一起保持好奇心 ヽ(・∀・)ﾉ
 
 ---
 
@@ -23,13 +21,4 @@
 </div>
 
 
-
----
-
-<!-- GitHub 活动图 -->
-<h2 align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  GitHub 活动
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-</h2>
 
