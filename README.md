@@ -1,10 +1,10 @@
 
 <div align="center">
-👋 你好，我是后端/AI应用开发者一叶知秋
-🔧 主要技术栈：Python、LangGraph、FastAPI、RAG、大模型微调、Docker
-📂 专注Agent智能体、知识库应用开发
-🌐 个人站点：https://yztcf.de5.net/
-
+ <p>👋 你好，我是后端/AI应用开发者一叶知秋 </p>
+ <p>🔧 主要技术栈：Python、LangGraph、FastAPI、RAG、大模型微调、Docker </p>
+ <p>📂 专注Agent智能体、知识库应用开发 </p>
+ <p>🌐 个人站点：https://yztcf.de5.net/
+ </p>
 
   <p>
     <a href="mailto:1632866674@qq.com"><img src="https://img.shields.io/badge/Email-1632866674%40qq.com-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
